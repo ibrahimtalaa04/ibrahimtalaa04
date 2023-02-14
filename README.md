@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ibrahim Altalaa
-- 👀 I’m Front-end developer
-- 🌱 I’m back-end developmer(Asp.net core 6)
+- 👀 I’m Back-end developer(Asp.net core 6)
 - 📫 How to reach me ibrahimtalaa04@gmail.com
 
 <!---
