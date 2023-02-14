@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibrahim Altalaa
 - 👀 I’m Front-end developer
-- 🌱 I’m currently learning Flutter, Reactjs and back-end development(Asp.net core mvc (.Net 6))
+- 🌱 I’m back-end developmer(Asp.net core 6)
 - 📫 How to reach me ibrahimtalaa04@gmail.com
 
 <!---
