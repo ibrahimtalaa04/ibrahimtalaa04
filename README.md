@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Ibrahim Altalaa
-- 👀 I’m Back-end developer(Asp.net core 6)
-- 📫 How to reach me ibrahimtalaa04@gmail.com
-
 <!---
 ibrahimtalaa04/ibrahimtalaa04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -10,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Ibraihim Altalaa and I'm a software developer | AspNetCore Developer | Web Scraper, from Palestine</p>
 
 ###
 
@@ -93,7 +89,7 @@ Contact me, share your ideas and I'll handle the rest😉
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ibrahimtalaa04.ibrahimtalaa04&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ibrahimtalaa04.ibrahimtalaa04"  />
 </div>
 
 ###
