@@ -126,6 +126,3 @@ Contact me, share your ideas and I'll handle the rest😉
   </a>
 </div>
 
-
-
-###
