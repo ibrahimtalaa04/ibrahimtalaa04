@@ -24,6 +24,9 @@ Talented and Professional developer with 3+ years of experience, driven to deliv
 
 It is my goal to provide my expertise to clients in order to assist them in running an efficient and profitable business, and to establish long-term business relationships with these clients.
 
+### 🌐 Contact me, share your ideas and I'll handle the rest😉
+
+
 ---
 
 ### 💻 I Code With
