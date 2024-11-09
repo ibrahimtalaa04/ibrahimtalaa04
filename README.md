@@ -16,19 +16,25 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
  Talented and Professional developer with 3+ years of experience, driven to deliver high-quality technical solutions and bring ideas to life. Timely problem-solver and attentive to every detail. Build well-structured and easily maintainable code👌🏼.
-
+###
 Since then, I have developed applications using:
-
-💧 Laguages: C#, WinFroms, WPF,
-💧 Front-end development: Js, ES6, Ajax, jQuery, HTML5, CSS3, Bootstrap
-💧 Back-end development: C#, ASP.NET, ASP.NET Core, ASP.NET MVC, ASP.NET Razor Pages, JWT, WebAPI
-💧 Libraries: ADO.Net, EF, LINQ
-💧 Databases: MSSQL , Oracle, PostgreSQL , T-SQL
-💧 Dev Tools: Azure DevOps, Discord, Trello, Postman, Microsoft Teams, Zoho, Jira, BitBucket, GitHub, etc
-💧 Web Scraping: C#,Selenium Webdriver, HtmlAgilityPack
-
+###
+  💧 Laguages: C#, WinFroms, WPF,
+ ###
+  💧 Front-end development: Js, ES6, Ajax, jQuery, HTML5, CSS3, Bootstrap
+ ###
+  💧 Back-end development: C#, ASP.NET, ASP.NET Core, ASP.NET MVC, ASP.NET Razor Pages, JWT, WebAPI
+ ###
+  💧 Libraries: ADO.Net, EF, LINQ
+ ###
+  💧 Databases: MSSQL , Oracle, PostgreSQL , T-SQL
+###
+  💧 Dev Tools: Azure DevOps, Discord, Trello, Postman, Microsoft Teams, Zoho, Jira, BitBucket, GitHub, etc
+###
+  💧 Web Scraping: C#,Selenium Webdriver, HtmlAgilityPack
+###
 It is my goal to provide my expertise to clients in order to assist them in running an efficient and profitable business, and to establish long-term business relationships with these clients.
-
+###
 Contact me, share your ideas and I'll handle the rest😉
 </p>
 
